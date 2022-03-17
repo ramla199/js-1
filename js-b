@@ -1,0 +1,5 @@
+const ramlaJama = "ramla jama";
+
+function rj {
+console.log(ramlaJama)
+}
